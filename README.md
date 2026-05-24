@@ -2,6 +2,11 @@
 
 A production-oriented inventory reservation system for e-commerce checkout flows. The repository now contains:
 
+## Live Demo
+
+- Frontend: https://giridharan-allo-inventory-plct1bmtw-allo-inventory-system.vercel.app/
+- GitHub Repository: https://github.com/22MIS1156/allo-inventory-system
+
 - a **generated Next.js App Router backend blueprint** under `app/`, `lib/`, and `prisma/`
 - an **interactive preview UI** in `src/` that visualizes the same reservation flow for local review in the current build environment
 
